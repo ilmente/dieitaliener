@@ -1,0 +1,34 @@
+# IDEs
+/.idea
+/.project
+/nbproject
+/.buildpath
+/.settings
+/.docker-sync
+*.sublime-*
+*.AppleDouble
+*.AppleDB
+*.AppleDesktop
+Temporary Items
+.apdisk
+.tmp
+GPATH
+GRTAGS
+GTAGS
+
+# OS
+.DS_Store
+
+# frontend
+.sass-cache
+/node_modules/
+/.yarn
+/.yarnrc
+
+# logs
+*.log
+
+# environment
+.env
+.git
+/.bash_history
